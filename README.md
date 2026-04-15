@@ -9,7 +9,7 @@ While building my startup, I scaled it from 0 to:
 - 38,000 schools
 - 50% of U.S. school districts
 
-In doing so, I also built a lot of product.
+In doing so, I also built a lot of [product](https://ethanbinder.notion.site/overview).
 
 Now, I'm at Roblox building products that reach:
 
