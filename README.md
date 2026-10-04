@@ -21,4 +21,4 @@ Now, I'm at Roblox building products that reach:
 > [!TIP]
 > View what I am building on [LinkedIn here →](https://www.linkedin.com/in/ethan-binder/recent-activity/all/)
 >
-> Or in my [Product Portfolio →](https://ethanbinder.notion.site/overview)
+> Or on my website here: [ethanbinder.com](https://ethanbinder.com)
